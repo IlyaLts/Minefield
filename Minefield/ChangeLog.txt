@@ -1,0 +1,41 @@
+==========================
+2.2.2 - October 31, 2025
+==========================
+
+- Fixed the issue where a tile with a bomb was not red.
+
+==========================
+2.2.1 - October 31, 2025
+==========================
+
+- Fixed the issue where mines, flags, and question marks were sometimes missing.
+
+==========================
+2.2 - October 26, 2025
+==========================
+
+- Performance improvements.
+
+==========================
+2.1 - October 23, 2025
+==========================
+
+- Performance improvements.
+- Bug fixes and other minor improvements.
+
+==========================
+2.0 - April 20, 2025
+==========================
+
+- Changed the design of the game.
+- Added three new difficulty levels, along with custom difficulty options.
+- Added the ability to turn sound or question marks on/off.
+- Added chording.
+- Added keyboard controls.
+- Bug fixes.
+
+==========================
+1.0 - May 29, 2023
+==========================
+
+- Initial release.
