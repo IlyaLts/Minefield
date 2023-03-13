@@ -1,0 +1,16 @@
+.vs/
+/Pusher
+**ipch
+**Build
+**_DEBUG_
+**_RELEASE_
+*.suo
+*.sdf
+*.user
+*.opensdf
+*.log
+*.exe
+*.dll
+*.pdb
+*.cfg
+*.lvl
